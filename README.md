@@ -1,13 +1,13 @@
 # Stars
 I want to land on stars.
-#contact information
+# Contact information
 
-You can find me on the star.
+You can find me on Earth for the moment.
 
-#Funding source
+# Funding source
 
 Space exploration associate
 
-#My favorite stars
+# My favorite stars
 
 Three Body
